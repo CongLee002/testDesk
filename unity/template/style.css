@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:url(../img/background1.jpg) no-repeat ;}
+a:link
+{
+	text-decoration:none;
+	color:#0000ff;
+}
+a:visited
+{
+	text-decoration:none;
+	color:#0000ff;
+}
+a:hover, a:active
+{
+	text-decoration:underline;
+	color:#0000ff;
+}
+
+#header
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+#container
+{
+	margin-left:auto;
+	margin-right:auto;
+/*	margin:5px 5px 5px 5px;*/
+	font-size:14px;
+	text-align:center;
+	font-weight:bold;
+}
+#bar
+{
+	margin-left:200px;
+	margin-right:auto;
+	margin:5px 5px 5px 5px;
+	font-size:14px;
+	text-align:center;
+	font-weight:bold;
+}
+#theaterinfo
+{
+/*	margin-left: 5%;
+	margin-right: auto;*/
+	/*margin: 5px 5px 5px 5px;*/
+	position:relative;
+	left: 129px;
+	top: 25px;
+	width: 480px;
+	padding:20px;
+	border: 1px solid #000;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+	height:213px;
+}
+#theaternews
+{
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin: 5px 5px 5px 5px;
+	position: absolute;
+	left: 132px;
+	top: 300px;
+	width: 480px;
+	padding: 20px;
+	border: 1px solid #000;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+	margin-top:300px;
+	height:213px;
+}
+#unity
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin: 5px 5px 5px 5px;
+	position: absolute;
+	left: 685px;
+	top: 328px;
+	width: 480px;
+	padding: 20px;
+	border: 1px solid #000;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+	height:213px;
+}
+#groupnews
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin: 5px 5px 5px 5px;
+	position: absolute;
+	left: 685px;
+	top: 595px;
+	width: 480px;
+	padding:20px;
+	border: 1px solid #000;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+	height:213px;
+}
+#footer
+{
+/*	margin-left:auto;
+	margin-right:auto;*/
+	background:#CCC;
+	/*margin:5px 5px 5px 5px;*/
+	/*font-size:14px;
+	line-height:22px;
+	margin-top:390px;*/
+/*	margin-top:300px;*/
+/*width:80%;*/
+}
+ul{
+	list-style-type:none;
+	text-align:left;}
+#jianjie{
+	max-width:50px;
+	max-height:40px;}
+table{
+	text-align:left;}
+#qq{
+	margin-top:300px;}
